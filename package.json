@@ -1,0 +1,16 @@
+{
+  "name": "phil-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "@netlify/edge-functions": "^3.0.3",
+    "@netlify/functions": "^5.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
